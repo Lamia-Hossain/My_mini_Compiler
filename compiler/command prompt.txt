@@ -1,0 +1,4 @@
+bison -d 1707110.y
+flex 1707110.l
+gcc 1707110.tab.c lex.yy.c -o in
+in

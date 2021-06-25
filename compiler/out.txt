@@ -1,0 +1,131 @@
+.....Final Show Begins.....
+Its Header........
+Hi..........
+
+Valid declare for Float type
+b variable is already declared
+Valid declare for Int type
+Value of the variable: 81
+Value of the variable: 1
+Value of the variable: 5
+Value of the variable: 25
+Value of the variable: 8
+~~Single Line Comment~~
+~~Multiple Line Comment~~
+Value is : 1
+Value of Log10(1) : 0.000000
+Value of Ln(102) : 4.624973
+Value of sin(30) : 0.500001
+Value of cosec(30) : 1.999996
+Value of cos(30) : 0.866025
+Value of sec(30) : 1.154701
+Value of tan(30) : 0.577352
+Value of cot(30) : 1.732046
+Factorial of 5 : 120
+Summation of 1 to 5 : 15
+Multiplication of 1 to 5 : 120
+Multiplication of 5 to 9 : 15120
+G.C.D of 81 and 153 : 9
+L.C.M of 72 and 120 : 360
+Square root of 25 = 0
+Fibonacci Series : 0 1 1 2 3
+Maximum between 1 and 5 : 5
+Minimum between 1 and 5 : 1
+10101039 is not a palindrome number.
+Value of Operation: -73
+~~Single Line Comment~~
+Value of Operation: 5
+Value of Operation: 5
+Value of Operation: 4
+Divided by 0    Value of Operation: 0
+Value of Operation: 0
+Mod by zero     Value of Operation: 0
+Value of the variable: 5
+Value is : 5
+Value of Operation: 3125
+Reverse of the number = 7654321
+Increment of 1 = 2
+Increment of 5 = 6
+Decrement of 5 = 4
+5 is not equals to 6    So the statement is true
+2019 is not a LEAP YEAR.
+2020 is a LEAP YEAR.
+1 is not greater than 5 So the statement is wrong.
+1 is less than 5 So the statement is true.
+Value of expression in JODI: 20
+Value of expression in NAHOY: 4
+Value of expression in NAHOY_JODI : 50
+Value of expression in JODI: -4
+Value of expression in NAHOY_JODI : 6
+Value of expression in JODI: 30
+Value of expression in NAHOY_JODI : 31
+
+For Loop statement for 1 : 300
+For Loop statement for 2 : 900
+For Loop statement for 3 : 2700
+For Loop statement for 4 : 8100
+For Loop statement for 5 : 24300
+FOR LOOP DONE MULTIPLICATION
+
+For Loop statement for 1 : 103
+For Loop statement for 2 : 106
+For Loop statement for 3 : 109
+For Loop statement for 4 : 112
+For Loop statement for 5 : 115
+FOR LOOP DONE FOR PLUS
+
+For Loop statement for 1 : 30
+For Loop statement for 2 : 10
+For Loop statement for 3 : 3
+For Loop statement for 4 : 1
+For Loop statement for 5 : 0
+FOR LOOP DONE DIVISION
+
+For Loop statement for 1 : 87
+For Loop statement for 2 : 84
+For Loop statement for 3 : 81
+For Loop statement for 4 : 78
+For Loop statement for 5 : 75
+FOR LOOP DONE FOR MINUS
+
+For Loop statement for 1 : 8
+For Loop statement for 2 : 512
+For Loop statement for 3 : 134217728
+FOR LOOP DONE FOR POWER
+
+CASE no : 6 and the Output is : 15
+SWITCH LOOP DONE DONE DONE
+
+While condition is true for not sign.
+FIRST one is greater than the SECOND.
+WHILE loop no :
+8
+9
+10
+WHILE LOOP DONE DONE DONE
+Result is 1036
+
+While condition is true for greater than sign.
+WHILE loop no :
+5
+6
+7
+8
+9
+WHILE LOOP DONE DONE DONE
+Result is 1036
+
+While condition is true for less than sign.
+WHILE loop no :
+5
+6
+7
+WHILE LOOP DONE DONE DONE
+Result is 1001
+
+~~Multiple Line Comment~~
+
+Ok bye........
+
+WOOOHHOOOOOO
+Operation Successful

@@ -1,0 +1,138 @@
+#import <math.h>
+main:
+HI
+Float fl;
+Int aa,b,c,b,d,i,j,k,s,z;
+z=81;
+aa=1;
+b=5;
+c=25;
+d=8;
+
+!s_cmnt!single comment
+!m_cmnt!
+multiple line comment
+!m_cmnt!
+
+print(aa);
+Log10(aa);
+Ln(102);
+sin(30);
+cosec(30);
+cos(30);
+sec(30);
+tan(30);
+cot(30);
+fact b;
+sum aa to b;
+mul aa to b;
+mul b to 9;
+gcd z,153;
+lcm 72,120;
+root c;
+fib b;
+max_between aa b;
+min_between aa b;
+palindrome 10101039;
+aa/b*c+d-z; !s_cmnt!1/5=0 0*25=0 0+8=8 8-1=7;
+aa*b;
+c/b;
+d/2;
+d/0;
+d%2;
+d%0;
+d=b;
+print(d);
+b^b;
+reverse 1234567;
+aa++;
+5++;
+b--;
+b!6;
+leap 2019;
+leap 2020;
+aa>>b;
+aa<<b;
+
+jodi(c>b){ c-b; }
+
+jodi(aa>d){ aa-d; }
+nahoy{ d-aa; }
+
+jodi(d>c){ d+d; }
+nahoy_jodi(d>aa){ d*10; }
+nahoy{ d-aa; }
+
+jodi(d>aa)
+{ 
+jodi(c>d){ aa-d; }
+nahoy{ d-aa; } 
+}
+nahoy_jodi(d<aa){ d*10; }
+nahoy{ d-aa; }
+
+jodi(d>aa)
+{ 
+jodi(c<d){ aa-d; }
+nahoy_jodi(c>d){ aa+d; }
+nahoy{ d-aa; } 
+}
+nahoy_jodi(d<aa){ d*10; }
+nahoy{ d-aa; }
+
+jodi(d>c){ d+d; }
+nahoy_jodi(d>aa)
+{
+jodi(c>d){ c+d; }
+nahoy{ c-d; } 
+}
+nahoy{ d-aa; }
+
+jodi(c<d){d-c;}
+nahoy_jodi(c>aa)
+{ 
+jodi(aa>b){ aa-b; }
+nahoy_jodi(b=d){ aa+b+c; }
+nahoy{ aa+b; }
+}
+nahoy{ aa+b+c+d; }
+
+for 1 to 5 (s=100) { s = s**3; }
+for 5 to 1 (s=100) { s = s++3; }
+for 1 to 5 (s=90) { s = s//3; }
+for 1 to 5 (s=90) { s = s--3; }
+for 1 to 3 (s=2) { s = s^^3; }
+
+move (fact 3)
+{
+when 1 : aa+b; out;
+when 2 : b + c; out;
+when 3 : aa + c; out;
+when 4 : d + 100; out;
+when 6 : d + 10; out;
+otherwise : c + d; out;
+}
+
+while (11!8)
+{
+aa+b+c+d+1000;
+}
+
+while (10>b)
+{
+aa+b+c+d+1000;
+}
+
+while (b<8)
+{
+aa+1000;
+}
+
+!m_cmnt!
+aa=1;
+b=5;
+c=25;
+d=5;
+z=1;
+!m_cmnt!
+BYE
